@@ -2,14 +2,15 @@
   text-align: center;
 }
 .App-header {
-  padding: 15px;
-  font-size: 60px;
+  padding: 3px;
+  font-size: 100px;
   font-family: 'Rock Salt', cursive;
 }
 .App-intro {
-  font-size: 18px;
-  width: 350px;
-  padding-left: 37%;
+  font-size: 22px;
+  width: 550px;
+  padding-left: 29%;
+  font-family: 'Nobile', sans-serif;
 }
 .hero{
   /* Logo */
