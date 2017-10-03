@@ -15,30 +15,29 @@ class App extends Component {
         </p>
 
         <div>
+          <h6>70's Top Three</h6>
         <img className='product' src ={ph} />
         <img className='product' src ={ph} />
         <img className='product' src ={ph} />
       </div>
       <div>
+        <h6>80's Top Three </h6>
         <img className='product' src ={ph} />
         <img className='product' src ={ph} />
         <img className='product' src ={ph} />
       </div>
       <div>
+        <h6>90's Top Three </h6>
         <img className='product' src ={ph} />
         <img className='product' src ={ph} />
         <img className='product' src ={ph} />
       </div>
       <div>
+        <h6>00's Top Three </h6>
         <img className='product' src ={ph} />
         <img className='product' src ={ph} />
         <img className='product' src ={ph} />
       </div>
-    <div>
-        <img className='product' src ={ph} />
-        <img className='product' src ={ph} />
-        <img className='product' src ={ph} />
-    </div>
        </div>
     );
   }

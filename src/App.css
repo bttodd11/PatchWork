@@ -5,16 +5,21 @@
   padding: 3px;
   font-size: 100px;
   font-family: 'Rock Salt', cursive;
+  background-color: black;
+  color:white;
 }
 .App-intro {
-  font-size: 22px;
+  font-size: 20px;
   width: 550px;
   padding-left: 29%;
-  font-family: 'Nobile', sans-serif;
+  font-family: 'Rock Salt', cursive;
 }
 .hero{
   /* Logo */
 }
 .product{
-  padding: 60px;
+  margin: 35px;
+  border-style: solid;
+  border-radius: 50%;
+
 }
